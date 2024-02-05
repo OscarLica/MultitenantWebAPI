@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qdcj98czRnLmF8PtpUhCN73dNFadO9t4px+cUvjUktQg0NVB1RckcWa6zmla+xVQyt6Ta+0z7zmtDH/Nb5Zj6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.CQRS\\MultiTenantWebApi.CQRS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,253 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantApi.Aplication\\MultiTenantWebApi.Aplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantApi.Aplication\\MultiTenantWebApi.Aplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantApi.Aplication\\MultiTenantWebApi.Aplication.csproj",
+        "projectName": "MultiTenantWebApi.Aplication",
+        "projectPath": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantApi.Aplication\\MultiTenantWebApi.Aplication.csproj",
+        "packagesPath": "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantApi.Aplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Oscar Jimenez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Proyectos Consulting\\IFAM WEB\\NugetRepositorio": {},
+          "E:\\Proyectos Consulting\\MEDICO\\Core Medico\\NugetsEntitys": {},
+          "E:\\Proyectos Consulting\\Web%20Api\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Domain\\MultiTenantWebApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Domain\\MultiTenantWebApi.Domain.csproj"
+              },
+              "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Entities\\MultiTenantWebApi.Entities.csproj": {
+                "projectPath": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Entities\\MultiTenantWebApi.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Domain\\MultiTenantWebApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Domain\\MultiTenantWebApi.Domain.csproj",
+        "projectName": "MultiTenantWebApi.Domain",
+        "projectPath": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Domain\\MultiTenantWebApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Oscar Jimenez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Proyectos Consulting\\IFAM WEB\\NugetRepositorio": {},
+          "E:\\Proyectos Consulting\\MEDICO\\Core Medico\\NugetsEntitys": {},
+          "E:\\Proyectos Consulting\\Web%20Api\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Entities\\MultiTenantWebApi.Entities.csproj": {
+                "projectPath": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Entities\\MultiTenantWebApi.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Entities\\MultiTenantWebApi.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Entities\\MultiTenantWebApi.Entities.csproj",
+        "projectName": "MultiTenantWebApi.Entities",
+        "projectPath": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Entities\\MultiTenantWebApi.Entities.csproj",
+        "packagesPath": "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantWebApi.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Oscar Jimenez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Proyectos Consulting\\IFAM WEB\\NugetRepositorio": {},
+          "E:\\Proyectos Consulting\\MEDICO\\Core Medico\\NugetsEntitys": {},
+          "E:\\Proyectos Consulting\\Web%20Api\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

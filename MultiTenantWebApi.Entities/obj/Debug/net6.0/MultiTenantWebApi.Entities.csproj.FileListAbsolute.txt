@@ -1,0 +1,11 @@
+C:\Users\Oscar Jimenez\source\repos\MultiTenantWebApi\MultiTenantWebApi.Entities\bin\Debug\net6.0\MultiTenantWebApi.Entities.deps.json
+C:\Users\Oscar Jimenez\source\repos\MultiTenantWebApi\MultiTenantWebApi.Entities\bin\Debug\net6.0\MultiTenantWebApi.Entities.dll
+C:\Users\Oscar Jimenez\source\repos\MultiTenantWebApi\MultiTenantWebApi.Entities\bin\Debug\net6.0\MultiTenantWebApi.Entities.pdb
+C:\Users\Oscar Jimenez\source\repos\MultiTenantWebApi\MultiTenantWebApi.Entities\obj\Debug\net6.0\MultiTenantWebApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Jimenez\source\repos\MultiTenantWebApi\MultiTenantWebApi.Entities\obj\Debug\net6.0\MultiTenantWebApi.Entities.AssemblyInfoInputs.cache
+C:\Users\Oscar Jimenez\source\repos\MultiTenantWebApi\MultiTenantWebApi.Entities\obj\Debug\net6.0\MultiTenantWebApi.Entities.AssemblyInfo.cs
+C:\Users\Oscar Jimenez\source\repos\MultiTenantWebApi\MultiTenantWebApi.Entities\obj\Debug\net6.0\MultiTenantWebApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Jimenez\source\repos\MultiTenantWebApi\MultiTenantWebApi.Entities\obj\Debug\net6.0\MultiTenantWebApi.Entities.dll
+C:\Users\Oscar Jimenez\source\repos\MultiTenantWebApi\MultiTenantWebApi.Entities\obj\Debug\net6.0\refint\MultiTenantWebApi.Entities.dll
+C:\Users\Oscar Jimenez\source\repos\MultiTenantWebApi\MultiTenantWebApi.Entities\obj\Debug\net6.0\MultiTenantWebApi.Entities.pdb
+C:\Users\Oscar Jimenez\source\repos\MultiTenantWebApi\MultiTenantWebApi.Entities\obj\Debug\net6.0\ref\MultiTenantWebApi.Entities.dll

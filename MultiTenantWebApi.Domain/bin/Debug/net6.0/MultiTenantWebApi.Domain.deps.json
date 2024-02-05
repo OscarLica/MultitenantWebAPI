@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MultiTenantWebApi.Domain/1.0.0": {
+        "dependencies": {
+          "MultiTenantWebApi.Entities": "1.0.0"
+        },
+        "runtime": {
+          "MultiTenantWebApi.Domain.dll": {}
+        }
+      },
+      "MultiTenantWebApi.Entities/1.0.0": {
+        "runtime": {
+          "MultiTenantWebApi.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiTenantWebApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MultiTenantWebApi.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

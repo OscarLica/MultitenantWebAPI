@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JYb5IpbBXCeCNAK+h7FCjK0NdtdnRxTPP4zLaPSMbbIHUbXVobWidJl4HIi5c+/pAJe5wzvmDawJtLPXENWPsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oscar Jimenez\\source\\repos\\MultiTenantWebApi\\MultiTenantApi.Aplication\\MultiTenantWebApi.Aplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
